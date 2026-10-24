@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/profile/mascot.gif" alt="Wolkenfuchs" width="300">
+<img src="/profile/Logo.png" alt="Wolkenfuchs" width="500">
 
 # Welcome to Wolkenfuchs Interactive Entertainment!
 
